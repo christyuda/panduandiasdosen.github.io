@@ -70,16 +70,15 @@ Mahasiswa Perwalian 5
 # *Setting* Iteung
 
 1.  Dosen melakukan perwalian di iteung **(Buat WAG anak walian dengan
-    > format: PERWALIAN-D4TI-4A-2018)**.
+    > format: PERWALIAN-D4TI-4A-2018).
 
-2.  WAG (Whatsapp Grub) berisi anak walian dan terdapat iteung
-    > didalamnya.
+2.  WAG (Whatsapp Grub) berisi anak walian dan terdapat iteung didalamnya.
 
 3.  Selanjutnya dipersilahkan untuk melakukan perwalian di iteung dengan
     > *keyword*: **iteung perwalian daring mulai**
 
 4.  Jika sudah selesai diskusi perwalian di WAG dipersilahkan ditutup
-    > dengan *keyword*:
+    dengan > *keyword*:
 
 > **iteung perwalian daring selesai catatan \....., \..... km
 > {NPM_KM_KELAS}**
@@ -88,7 +87,7 @@ Mahasiswa Perwalian 5
 > Matakuliah Mengulang, link google meet ............. km 1184047**
 
 5.  Penutupan bisa berulang ulang dan jangan lupa disampaikan untuk link
-    > *google meet* pertemuan perwaliannya.
+    *google meet* pertemuan perwaliannya.
 
 6.  Untuk mengetahui kapan range tanggal/waktu perwalian bisa ke sini:
 
