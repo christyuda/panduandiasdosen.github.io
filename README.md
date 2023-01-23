@@ -78,7 +78,7 @@ Mahasiswa Perwalian 5
     > *keyword*: **iteung perwalian daring mulai**
 
 4.  Jika sudah selesai diskusi perwalian di WAG dipersilahkan ditutup
-    dengan > *keyword*:
+    dengan *keyword*:
 
 > **iteung perwalian daring selesai catatan \....., \..... km
 > {NPM_KM_KELAS}**
